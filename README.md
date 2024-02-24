@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=안녕하세요!)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=안녕하세요!&height=180&fontSize=50&fontAlignY=38&fontColor=ffffff)
   
   ### Hi there 👋
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)
