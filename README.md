@@ -25,6 +25,8 @@
   <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdwns29&show_icons=true&theme=catppuccin_latte)</a>
-  ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns29)
+  ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns29&layout=donut)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmdwns29&theme=minimal&bg_color=FFFFFF&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 </div>
