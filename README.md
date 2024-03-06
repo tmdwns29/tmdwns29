@@ -7,18 +7,22 @@
   
   <br>
   
-  ### Tech Stack ⚒
+  ### Skills ⚒️
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white"/></a>
   
   <br>
   
-  ### IDE 💾
+  ### Tools 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=for-the-badge&logo=GoogleColab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/></a>
 
   <br>
   <br>
