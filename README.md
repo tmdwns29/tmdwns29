@@ -1,12 +1,14 @@
-<div align="center">
+<div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=Hi+there👋&height=180&fontSize=50&fontAlignY=38&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=Hi+there👋&height=180&fontSize=60&fontAlignY=38&fontAlign=22&fontColor=ffffff)
   
+    
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)</a>
+
   
   <br>
   
-  ### ⚒ Tech Stacks ⚒
+  ## ⚒ Tech Stacks ⚒
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
@@ -19,8 +21,9 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
   <br>
-  
-  ### ⚙ Tools ⚙
+  <br>
+  <br>
+  ## ⚙ Tools ⚙
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=for-the-badge&logo=GoogleColab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
