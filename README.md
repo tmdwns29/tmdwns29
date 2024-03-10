@@ -1,19 +1,23 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=안녕하세요!&height=180&fontSize=50&fontAlignY=38&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=Hi+there👋&height=180&fontSize=50&fontAlignY=38&fontColor=ffffff)
   
-  ### Hi there 👋
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)</a>
   
   <br>
   
-  ### ⚒ Skills ⚒
+  ### ⚒ Tech Stacks ⚒
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/></a>
   
+  #### Learning
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
   <br>
   
   ### ⚙ Tools ⚙
