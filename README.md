@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01DFD7,100:0404B4&gradient&text=Hi+there👋&height=180&fontSize=60&fontAlignY=38&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:DF0101,100:0040FF&gradient&text=Hi+there👋&height=180&fontSize=60&fontAlignY=38&fontColor=ffffff)
   
     
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)</a>
