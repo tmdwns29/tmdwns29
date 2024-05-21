@@ -9,11 +9,17 @@
   <br>
   
   ## ⚒ Tech Stacks ⚒
+  ### Language
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+  
+  ### Library & Framework
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=Numpy&logoColor=white"/>
+  
   
   #### Be Learning
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/></a>
