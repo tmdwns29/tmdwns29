@@ -3,14 +3,14 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B610A,100:64FE2E&gradient&text=Hi+there👋&height=180&fontSize=60&fontAlignY=38&fontColor=ffffff)-->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)</a>
 
-<br>
+<!--br-->
  
  <!--##⚒ Tech Stacks ⚒-->
   <!--img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/-->
-  <!--img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/--><br>
+  <!--img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/--><!--br-->
   <!--img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=Numpy&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/-->
@@ -20,8 +20,8 @@
   <!--img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white"/--></a>
    
-  <br>
-  <br>
+  <!--br-->
+  <!--br-->
   
   <!--## ⚙ Tools ⚙-->
   <!--img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/--></a>
@@ -31,9 +31,9 @@
   <!--img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/--></a>
   <!--img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/--></a>
 
-  <br>
-  <br>
-  <br>
+  <!--br-->
+  <!--br-->
+  <!--br-->
   
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdwns29&show_icons=true)</a>-->
   <!--![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns29&layout=compact)-->
