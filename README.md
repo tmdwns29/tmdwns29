@@ -1,7 +1,35 @@
-<div align="center"
+<!-- 프로필 뱃지 등은 원하는 경우 추가 가능 -->
 
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B610A,100:64FE2E&gradient&text=Hi+there👋&height=180&fontSize=60&fontAlignY=38&fontColor=ffffff)-->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwns29)](https://solved.ac/tmdwns29)</a>
+## 👋 안녕하세요
+
+### 📚 교육
+- [19.03 - 25.02] HNBU 정보통신공학 졸업
+- [24.07 - 24.08] ABC부트캠프 데이터탐험가 과정 수료
+- [25.01 - 현재 ] 삼성 청년 SW AI 아카데미 13기
+
+### 🛠️ 사용해본 기술 스택
+- **Languages**: `C`, `Java`, `Python`
+- **Frameworks**: `Spring Boot`, `Vue.js`
+- **Database**: `MySQL`
+- **OS**: `Linux` 
+- **Tools**: `Wireshark`, `VMware`
+
+### 📌 프로젝트
+- **아파트 실거래가 기반 부동산 정보 플랫폼(SSAFY 1학기 관통프로젝트)**
+  - Spring + Vue.js 기반 웹서비스
+  - 실거래가 조회, 지역별 검색, 지도 시각화, 거래가 예측
+
+- **녹색소비 적금(신한금융그룹 빅데이터 해커톤)**
+  - 신한금융그룹 고객 소비데이터를 기반으로 분석
+  - 녹색소비지표를 제작하여 클러스터링, PCA주성분 분석을 통해 타겟 연령층 선정
+
+- **유성구 쓰레기 안심구역 최적 입지 분석(ABC부트캠프)**
+  - 유성구 공공데이터 기반 EDA 및 지도 시각화
+  - 재활용 정거장 최종 후보지 선정
+
+- **트래픽 변화량을 이용한 DDoS공격 탐지 시스템**
+  - SYN Flooding, UDP Flooding, Ping of Death 감지
+  - Wireshark 공격 패킷 분석 및 단계별 캡처필터조건 설정
 
 <!--br-->
  
@@ -35,8 +63,10 @@
   <!--br-->
   <!--br-->
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdwns29&show_icons=true)</a>
-  ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns29&layout=compact)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdwns29&show_icons=true)-->
+
+ <!--![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns29&layout=compact)-->
+
   <!--a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmdwns29&theme=minimal&bg_color=FFFFFF&hide_border=true&line=58A6FF&color=58A6FF" width=94%/-->
 
