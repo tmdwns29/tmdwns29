@@ -9,7 +9,7 @@
 
 ### 🛠️ 사용해본 기술 스택
 - **Languages**: `C`, `Java`, `Python`
-- **Frameworks**: `Spring Boot`, `Vue.js`
+- **Frameworks**: `Spring Boot`, `Flask`, `Vue.js`
 - **Database**: `MySQL`
 - **OS**: `Linux` 
 - **Tools**: `Wireshark`, `VMware`
